@@ -1,4 +1,4 @@
-RUBY MASTERMIND.
+RUBY MASTERMIND. 
 
   0.- WHY DID I MAKE THIS?
     Because you probably are right now like i were just a couple of hours ago so i'll give all the info you need of this project
