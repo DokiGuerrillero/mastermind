@@ -6,9 +6,6 @@ require_relative 'lib/feedback'
 WIDTH, HEIGHT = 1280 , 720
 PADDING = 20
 
-
-p human = Player.new()
-
 class Game < Gosu::Window
   def initialize 
     super WIDTH, HEIGHT
@@ -69,6 +66,7 @@ class Game < Gosu::Window
         end
       end
     end
+    
     if @game_status[:human] == true
       @current_game.update
       if @current_game.turn < 13 && @current_game.feedback[:right] < 4 
