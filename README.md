@@ -20,7 +20,7 @@
   <h2>2.- HOW DID I MAKE THE GUI?</h2>
     Gosu. This is a link to their docs : "https://www.rubydoc.info/gems/gosu/Gosu" <-------- <br>
 
-  <h2>3.- WICH DESING DID YOU USED?</h2>
+  <h2>3.- WHICH DESING DID I USE?</h2>
     This arquitecture:<br>
        " <br>
          Menu:<br>
