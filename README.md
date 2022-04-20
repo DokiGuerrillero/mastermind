@@ -39,7 +39,7 @@
   <h2>4.- ADVICE</h2>
       You should read the documentations in arrays. there you will find the tools that you will need, and plan ahead the project before jumping on it.
 
-  <h2>5.- HONORS</<h2>h2>
+  <h2>5.- HONORS</h2>
       I want to dedicate this project to my dog and my chair for supporting me emotionally and literally while i was doing this.
 
 
