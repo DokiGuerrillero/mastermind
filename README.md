@@ -1,10 +1,10 @@
-RUBY MASTERMIND. 
+<h1>RUBY MASTERMIND.</h1> 
 
-  0.- WHY DID I MAKE THIS?
-    Because you probably are right now like i were just a couple of hours ago so i'll give all the info you need of this project
+  <h2>0.- WHY DID I MAKE THIS?</h2><br>
+    Because you probably are right now like i were just a couple of hours ago so i'll give all the info you need of this project<br>
 
-  1.- ALGORITHM USED AND EXPLANATION:
-    Swaszek Algorithm:
+  <h2>1.- ALGORITHM USED AND EXPLANATION:</h2>
+    Swaszek Algorithm:<br>
       I selected it for being computationally fast and work like this:
       
         1. Create a list of 1296 items as all psoible options ("why? because you have 6 option per ball and 4 balls. so the total amount of combinations 
@@ -17,33 +17,33 @@ RUBY MASTERMIND.
         5. Pick the first element of the list and use it as the new guess
         6. Repeat from 3
   
-  2.- HOW DID I MAKE THE GUI?
-    Gosu. This is a link to their docs : "https://www.rubydoc.info/gems/gosu/Gosu" <--------
+  <h2>2.- HOW DID I MAKE THE GUI?</h2>
+    Gosu. This is a link to their docs : "https://www.rubydoc.info/gems/gosu/Gosu" <-------- <br>
 
-  3.- WICH DESING DID YOU USED?
-    This arquitecture:
-       " 
-         Menu:
-          Human: Play and return to menu
-          Robot: Play and return to menu
-                                          "
-    And the files
-       "
-         ./Main/
-          This hold the launcher and the game engine.
-          ./Lib/
-           This hold the libraries and the logic Framework
-           ./Assets/
-            This hold the Images and other things.
+  <h2>3.- WICH DESING DID YOU USED?</h2>
+    This arquitecture:<br>
+       " <br>
+         Menu:<br>
+          Human: Play and return to menu<br>
+          Robot: Play and return to menu<br>
+                                          "<br>
+    And the files<br>
+       "<br>
+         ./Main/<br>
+          This hold the launcher and the game engine.<br>
+          ./Lib/<br>
+           This hold the libraries and the logic Framework<br>
+           ./Assets/<br>
+            This hold the Images and other things.<br>
 
-  4.- ADVICE
+  <h2>4.- ADVICE</h2>
       You should read the documentations in arrays. there you will find the tools that you will need, and plan ahead the project before jumping on it.
 
-  5.- HONORS
+  <h2>5.- HONORS</<h2>h2>
       I want to dedicate this project to my dog and my chair for supporting me emotionally and literally while i was doing this.
 
 
-With all of this said i wish you...
+<h2>With all of this said i wish you...</h2>
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░████████░░░░░░░░░
